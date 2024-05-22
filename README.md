@@ -10,5 +10,5 @@ Utilizo esse espaço para minha organização e compartilhamento dos meus projet
 
 00001104151777sp@educacao.sp.gov.br
 
-![]![image](https://github.com/2CEJJO13/2CEJJO13/assets/170469976/9d88e395-2929-40b7-82e3-6c48ac49b10a)
-
+![][![image](https://github.com/2CEJJO13/2CEJJO13/assets/170469976/9d88e395-2929-40b7-82e3-6c48ac49b10a)
+](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRwPPuuBDAP3lgn5nfT1DkEc4KaSL5X2tzQA&s)
