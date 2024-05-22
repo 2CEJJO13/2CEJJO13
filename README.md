@@ -6,7 +6,7 @@ Estou na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilzo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-**###Voce pode entrar em contato comigo** 📫
+###**Voce pode entrar em contato comigo** 📫
 
 00001104151777sp@educacao.sp.gov.br
 
